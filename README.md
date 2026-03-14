@@ -4,7 +4,7 @@
 
 # Oleg Kurylo — Developer Portfolio
 
-**🇺🇦 From Ukraine · 🇩🇪 Based in Germany · 💻 C# · Avalonia UI · .NET · React**
+**🇺🇦 From Ukraine · 🇩🇪 Based in Germany · 💻 C# · Avalonia UI · .NET · React · PHP**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Developer3421-181717?style=flat&logo=github)](https://github.com/Developer3421)
 [![Microsoft Store](https://img.shields.io/badge/Microsoft%20Store-My%20Apps-0078D4?style=flat&logo=microsoft)](https://apps.microsoft.com)
@@ -23,7 +23,7 @@ My journey started in **2021** with small C# **WinForms** applications. After mo
 
 Today I have **11 unique desktop applications** available on the Microsoft Store, all built around a *multi-window philosophy* and integrating either **external APIs** or **local AI** components. My flagship project is **Vetale Browser** — a full-featured Avalonia/Chromium browser with an embedded **Gemma 3 1B** local AI model that runs even on older hardware.
 
-Most recently I created my first **web applications** (React + TypeScript) and built a **hybrid Avalonia C# + React** desktop application.
+Most recently I created my first **web applications** (React + TypeScript) and built a **hybrid Avalonia C# + React** desktop application. In early **2026** I also developed a **PHP portfolio website** featuring five interactive mini-applications (Calculator, To-Do, Quiz, BMI Calculator, Unit Converter) — all built in pure PHP without any external frameworks.
 
 ---
 
@@ -34,6 +34,7 @@ Most recently I created my first **web applications** (React + TypeScript) and b
 | **Primary language** | C# |
 | **Desktop UI** | Avalonia UI 11, WPF, WinForms |
 | **Web / Hybrid** | React 19, TypeScript, Vite, Tailwind CSS |
+| **Server-side web** | PHP 8.0+, HTML5, CSS3, vanilla JavaScript |
 | **Runtime** | .NET 10, .NET 9, .NET Framework 4.8 |
 | **Web rendering** | WebViewControl-Avalonia (Chromium), CefSharp, Microsoft WebView2 |
 | **Local AI** | LLamaSharp, Gemma 3 1B, Whisper.net |
@@ -57,6 +58,7 @@ Most recently I created my first **web applications** (React + TypeScript) and b
             Gemma 3 1B local AI integrated
             11 apps published to Microsoft Store (winter 2025)
             First React web apps & hybrid Avalonia + React app
+2026  ──▶  PHP portfolio website with 5 interactive mini-apps
 ```
 
 ---
@@ -235,6 +237,30 @@ Secure, client-side password generator — no data leaves the browser.
 
 ---
 
+## 🐘 PHP Web Applications
+
+### 🌐 PHP Portfolio Website
+> Personal portfolio website built with pure PHP — no frameworks, bilingual (EN/DE), dark theme, and five interactive mini-apps.
+
+- **Bilingual interface** — switch between English and German (session-based)
+- **Dark theme** — purple/orange colour scheme with CSS custom properties
+- **Responsive layout** — fluid grids and `clamp()` typography
+- **Stack:** PHP 8.0+, HTML5, CSS3, vanilla JavaScript
+
+**Interactive Mini-Apps:**
+
+| App | Description |
+|---|---|
+| 🧮 Calculator | Arithmetic calculator with operator precedence — custom expression parser, no `eval()` |
+| 📋 To-Do List | Task manager with localStorage persistence, timestamps and completion toggling |
+| 🎯 PHP Quiz | 10-question PHP knowledge quiz with server-side session state and progress bar |
+| ⚖️ BMI Calculator | Metric & imperial BMI calculator with category classification and health tips |
+| 🔄 Unit Converter | Converts temperature, length, weight and volume using PHP 8 `match` expressions |
+
+[![GitHub](https://img.shields.io/badge/GitHub-PhpPortfolioWebsite-181717?logo=github)](https://github.com/Developer3421/PhpPortfolioWebsite)
+
+---
+
 ## 🏛️ Legacy / Historical Projects
 
 | Project | Year | Description |
@@ -262,6 +288,7 @@ Secure, client-side password generator — no data leaves the browser.
 | [Vetale-Browser-SuperLite](https://github.com/Developer3421/Vetale-Browser-SuperLite) | C# | Minimal Chromium browser |
 | [Vetale-Browser-Legacy-WPF-2024-](https://github.com/Developer3421/Vetale-Browser-Legacy-WPF-2024-) | — | Historical WPF browser |
 | [Web-Projects](https://github.com/Developer3421/Web-Projects) | — | React web apps collection |
+| [PhpPortfolioWebsite](https://github.com/Developer3421/PhpPortfolioWebsite) | PHP | PHP portfolio with 5 interactive mini-apps |
 | [CSharp-Portfolio](https://github.com/Developer3421/CSharp-Portfolio) | — | HR portfolio with Store statistics |
 
 ---
@@ -278,7 +305,7 @@ Meine Entwicklerreise begann **2021** mit kleinen C#-**WinForms**-Anwendungen. N
 
 Heute verfüge ich über **11 einzigartige Desktop-Anwendungen** im Microsoft Store, die alle auf einer *Multi-Window-Philosophie* basieren und entweder **externe APIs** oder **lokale KI**-Komponenten integrieren. Mein Hauptprojekt ist **Vetale Browser** — ein vollwertiger Avalonia/Chromium-Browser mit eingebettetem **Gemma 3 1B**-KI-Modell, das auch auf älterer Hardware offline läuft.
 
-Kürzlich habe ich meine ersten **Web-Anwendungen** (React + TypeScript) sowie eine **hybride Avalonia C# + React**-Desktop-Applikation entwickelt.
+Kürzlich habe ich meine ersten **Web-Anwendungen** (React + TypeScript) sowie eine **hybride Avalonia C# + React**-Desktop-Applikation entwickelt. Anfang **2026** entwickelte ich zusätzlich eine **PHP-Portfolio-Website** mit fünf interaktiven Mini-Apps (Rechner, Aufgabenliste, Quiz, BMI-Rechner, Einheitenkonverter) — ausschließlich in reinem PHP ohne externe Frameworks.
 
 ---
 
@@ -289,6 +316,7 @@ Kürzlich habe ich meine ersten **Web-Anwendungen** (React + TypeScript) sowie e
 | **Hauptsprache** | C# |
 | **Desktop-UI** | Avalonia UI 11, WPF, WinForms |
 | **Web / Hybrid** | React 19, TypeScript, Vite, Tailwind CSS |
+| **Serverseitiges Web** | PHP 8.0+, HTML5, CSS3, vanilla JavaScript |
 | **Laufzeit** | .NET 10, .NET 9, .NET Framework 4.8 |
 | **Web-Rendering** | WebViewControl-Avalonia (Chromium), CefSharp, Microsoft WebView2 |
 | **Lokale KI** | LLamaSharp, Gemma 3 1B, Whisper.net |
@@ -312,6 +340,7 @@ Kürzlich habe ich meine ersten **Web-Anwendungen** (React + TypeScript) sowie e
             Gemma 3 1B lokal-KI integriert
             11 Apps im Microsoft Store veröffentlicht (Winter 2025)
             Erste React-Web-Apps & hybride Avalonia + React App
+2026  ──▶  PHP-Portfolio-Website mit 5 interaktiven Mini-Apps
 ```
 
 ---
@@ -490,6 +519,30 @@ Sicherer, clientseitiger Passwort-Generator — keine Daten verlassen den Browse
 
 ---
 
+## 🐘 PHP-Webanwendungen
+
+### 🌐 PHP-Portfolio-Website
+> Persönliche Portfolio-Website in reinem PHP — kein Framework, zweisprachig (EN/DE), Dark Theme und fünf interaktive Mini-Apps.
+
+- **Zweisprachige Oberfläche** — jederzeit zwischen Englisch und Deutsch wechselbar (session-basiert)
+- **Dark Theme** — lila/orangefarbenes Farbschema mit CSS Custom Properties
+- **Responsives Layout** — Fluid Grids und `clamp()`-Typografie für alle Bildschirmgrößen
+- **Stack:** PHP 8.0+, HTML5, CSS3, vanilla JavaScript
+
+**Interaktive Mini-Apps:**
+
+| App | Beschreibung |
+|---|---|
+| 🧮 Rechner | Arithmetischer Rechner mit Operatorpriorität — sicherer benutzerdefinierter Parser, kein `eval()` |
+| 📋 Aufgabenliste | Aufgabenmanager mit localStorage-Persistenz, Zeitstempeln und Erledigungsfunktion |
+| 🎯 PHP-Quiz | 10-Fragen-PHP-Quiz mit serverseitigem Session-Tracking und Fortschrittsanzeige |
+| ⚖️ BMI-Rechner | BMI-Rechner für metrische & imperiale Einheiten mit Kategorieklassifizierung und Gesundheitstipps |
+| 🔄 Einheitenkonverter | Konvertiert Temperatur, Länge, Gewicht und Volumen mit PHP 8 `match`-Ausdrücken |
+
+[![GitHub](https://img.shields.io/badge/GitHub-PhpPortfolioWebsite-181717?logo=github)](https://github.com/Developer3421/PhpPortfolioWebsite)
+
+---
+
 ## 🏛️ Legacy- / Historische Projekte
 
 | Projekt | Jahr | Beschreibung |
@@ -517,6 +570,7 @@ Sicherer, clientseitiger Passwort-Generator — keine Daten verlassen den Browse
 | [Vetale-Browser-SuperLite](https://github.com/Developer3421/Vetale-Browser-SuperLite) | C# | Minimaler Chromium-Browser |
 | [Vetale-Browser-Legacy-WPF-2024-](https://github.com/Developer3421/Vetale-Browser-Legacy-WPF-2024-) | — | Historischer WPF-Browser |
 | [Web-Projects](https://github.com/Developer3421/Web-Projects) | — | React-Web-App-Sammlung |
+| [PhpPortfolioWebsite](https://github.com/Developer3421/PhpPortfolioWebsite) | PHP | PHP-Portfolio mit 5 interaktiven Mini-Apps |
 | [CSharp-Portfolio](https://github.com/Developer3421/CSharp-Portfolio) | — | HR-Portfolio mit Store-Statistiken |
 
 ---
