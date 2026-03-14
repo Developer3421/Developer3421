@@ -8,6 +8,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Developer3421-181717?style=flat&logo=github)](https://github.com/Developer3421)
 [![Microsoft Store](https://img.shields.io/badge/Microsoft%20Store-My%20Apps-0078D4?style=flat&logo=microsoft)](https://apps.microsoft.com)
+[![Insait Apps Website](https://img.shields.io/badge/Website-Insait%20Apps-6A0DAD?style=flat&logo=googlechrome)](http://insaitplatform.mywebcommunity.org)
 
 </div>
 
@@ -21,7 +22,7 @@ I'm **Oleg Kurylo**, a self-taught C# desktop developer originally from **Ukrain
 
 My journey started in **2021** with small C# **WinForms** applications. After moving to Germany in **2022**, I continued evolving and spent **2023–2024** building more advanced C# **WPF** applications. In **2025** I migrated everything to the cross-platform **Avalonia UI** framework, completing and polishing all my desktop apps. In winter **2025** I began publishing my apps to the **Microsoft Store**.
 
-Today I have **11 unique desktop applications** available on the Microsoft Store, all built around a *multi-window philosophy* and integrating either **external APIs** or **local AI** components. My flagship project is **Vetale Browser** — a full-featured Avalonia/Chromium browser with an embedded **Gemma 3 1B** local AI model that runs even on older hardware.
+Today I have **11 unique desktop applications** available on the Microsoft Store, all built around a *multi-window philosophy* and integrating either **external APIs** or **local AI** components. My flagship project is **Vetale Browser** — a full-featured Avalonia/Chromium browser with an embedded **Gemma 3 1B** local AI model that runs even on older hardware. The official **Insait Apps** platform website is at [insaitplatform.mywebcommunity.org](http://insaitplatform.mywebcommunity.org).
 
 Most recently I created my first **web applications** (React + TypeScript) and built a **hybrid Avalonia C# + React** desktop application. In early **2026** I also developed a **PHP portfolio website** featuring five interactive mini-applications (Calculator, To-Do, Quiz, BMI Calculator, Unit Converter) — all built in pure PHP without any external frameworks.
 
@@ -303,7 +304,7 @@ Ich bin **Oleg Kurylo**, ein autodidaktischer C#-Desktop-Entwickler aus der **Uk
 
 Meine Entwicklerreise begann **2021** mit kleinen C#-**WinForms**-Anwendungen. Nach meiner Übersiedlung nach Deutschland im Jahr **2022** entwickelte ich mich weiter und arbeitete **2023–2024** an fortgeschritteneren C#-**WPF**-Projekten. Im Jahr **2025** migrierte ich alle Projekte auf das plattformübergreifende **Avalonia UI**-Framework und schloss alle Desktop-Apps ab. Im Winter **2025** begann ich, meine Apps im **Microsoft Store** zu veröffentlichen.
 
-Heute verfüge ich über **11 einzigartige Desktop-Anwendungen** im Microsoft Store, die alle auf einer *Multi-Window-Philosophie* basieren und entweder **externe APIs** oder **lokale KI**-Komponenten integrieren. Mein Hauptprojekt ist **Vetale Browser** — ein vollwertiger Avalonia/Chromium-Browser mit eingebettetem **Gemma 3 1B**-KI-Modell, das auch auf älterer Hardware offline läuft.
+Heute verfüge ich über **11 einzigartige Desktop-Anwendungen** im Microsoft Store, die alle auf einer *Multi-Window-Philosophie* basieren und entweder **externe APIs** oder **lokale KI**-Komponenten integrieren. Mein Hauptprojekt ist **Vetale Browser** — ein vollwertiger Avalonia/Chromium-Browser mit eingebettetem **Gemma 3 1B**-KI-Modell, das auch auf älterer Hardware offline läuft. Die offizielle **Insait Apps**-Plattform-Website ist unter [insaitplatform.mywebcommunity.org](http://insaitplatform.mywebcommunity.org) erreichbar.
 
 Kürzlich habe ich meine ersten **Web-Anwendungen** (React + TypeScript) sowie eine **hybride Avalonia C# + React**-Desktop-Applikation entwickelt. Anfang **2026** entwickelte ich zusätzlich eine **PHP-Portfolio-Website** mit fünf interaktiven Mini-Apps (Rechner, Aufgabenliste, Quiz, BMI-Rechner, Einheitenkonverter) — ausschließlich in reinem PHP ohne externe Frameworks.
 
