@@ -101,14 +101,12 @@ Most recently I created my first **web applications** (React + TypeScript) and b
 
 - Full Roslyn integration: IntelliSense, code fixes, rename refactoring
 - MSBuild integration: build, run, and publish .NET projects
-- Embedded ConPTY terminal emulator with ANSI rendering
 - Git & GitHub integration (commit, push, pull, diff, clone)
 - NuGet package manager & MSIX manager built in
-- ESP32 / nanoFramework support with visual LED panel designer
 - AXAML live preview for Avalonia UI files
 - Multilingual UI (English, Ukrainian, German, Russian, Turkish)
 - Gemini AI assistant for code help and translation
-- **Stack:** C# · .NET 10 · Avalonia UI 11.3 · Roslyn 5.0 · MSBuild · LibGit2 · NuGet.Protocol · Octokit · LiteDB · nanoFramework
+- **Stack:** C# · .NET 10 · Avalonia UI  · Roslyn  · MSBuild · LibGit2 · NuGet.Protocol · Octokit · LiteDB 
 
 [![GitHub](https://img.shields.io/badge/GitHub-Insait--Edit--C--Sharp-181717?logo=github)](https://github.com/Developer3421/Insait-Edit-C-Sharp)
 
